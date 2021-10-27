@@ -1,0 +1,11 @@
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.input-bar-div {
+  width: 100%;
+  margin-right: 10px;
+}

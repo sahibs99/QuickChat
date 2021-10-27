@@ -1,0 +1,25 @@
+.box-top {
+  width: auto;
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.online-circle {
+  height: 20px;
+  width: 20px;
+  background-color: rgb(152, 206, 72);
+  border-radius: 50%;
+  margin-left: 5px;
+}
+
+.room-name-div {
+  text-align: center;
+}
+
+.close {
+  margin-right: 10px;
+  text-decoration: none;
+  color: black;
+}
